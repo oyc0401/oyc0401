@@ -1,8 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" /> </p>
+
+--------------------
+
 - 👋 Hi, I’m @oyc0401
 - 👀 I’m interested in flutter
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on appication
 - 📫 How to reach me oyc0401@gmail.com
+
+
 
 ## 💻 Tech Stack
 
@@ -20,11 +25,23 @@
 
 
 <!---
+- 💞️ I’m looking to collaborate on appication
+
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=oyc0401&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oyc0401&theme=vue" />
+</p>
 
 ## 💻 ...
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://for-it-study.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </a> <a href = "hun-se.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foyc0401&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 --->
 
 <!---
