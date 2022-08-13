@@ -1,13 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" /> </p>
-
---------------------
-
+## Welcome!
 - 👋 Hi, I’m @oyc0401
-- 👀 I’m interested in flutter
+- 👀 I’m interested in mobile application
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me oyc0401@gmail.com
-
-
+<br>
 
 ## 💻 Tech Stack
 
@@ -19,14 +15,18 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=Android&logoColor=black)
+<br>
+  
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" /> </p>
 
 
 <!---
 - 💞️ I’m looking to collaborate on appication
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyc0401&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>  
 
 ## 📟 GitHub Stats
 <p align="center">
