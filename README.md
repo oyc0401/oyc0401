@@ -1,9 +1,9 @@
-## Hello!
-- 👋 Hi, I’m @oyc0401
-- 👀 I’m interested in mobile application
-- 🌱 I’m currently learning flutter
-- 📫 How to reach me oyc0401@gmail.com
+# Hello!
+
+플러터 좋아
 <br>
+
+
 
 ## 💻 Tech Stack
 
@@ -22,6 +22,10 @@
 
 
 <!---
+- 👋 Hi, I’m @oyc0401
+- 👀 I’m interested in mobile application
+- 🌱 I’m currently learning flutter
+- 📫 How to reach me oyc0401@gmail.com
 - 💞️ I’m looking to collaborate on appication
 
 
