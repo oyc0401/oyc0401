@@ -1,30 +1,39 @@
 # Hello!
 
-플러터 좋아
-<br>
+플러터와 클린코드에 관심이 있는 학생 입니다.
+
 
 
 
 ## 💻 Tech Stack
 
+<div align="center">
+ 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter-ko.dev/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/?hl=ko)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://flutter-ko.dev/docs/cookbook/persistence/sqlite)
+	
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/?hl=ko)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/kr/ios/ios-15/)
-
-
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/?hl=ko)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://flutter-ko.dev/docs/cookbook/persistence/sqlite)
+	
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/ko/)
+	
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://docs.microsoft.com/ko-kr/cpp/cpp/cpp-language-reference?view=msvc-170)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/ko/)
+</div>
 
 
 
-<br>
-  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" /> </p>
+
+
+
+
+
+
 
 
 <!---
