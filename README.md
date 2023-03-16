@@ -24,9 +24,23 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 </div>
 
+## repositories
+<!-- 부천북고 앱: https://github.com/oyc0401/flutterschool
+
+인하대 맛집 추천 앱: https://github.com/oyc0401/inmat
+
+1601 버스 시간 앱: https://github.com/oyc0401/when_bus_flutter -->
+
+백준: https://github.com/oyc0401/algorithm
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" />
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" /> </p>
+<!-- <p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=oyc0401&label=Views&color=blue&style=plastic&style=for-the-badge" alt="oyc0401" />
+</p> -->
 
 
 
