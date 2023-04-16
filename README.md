@@ -31,6 +31,8 @@
 
 1601 버스 시간 앱: https://github.com/oyc0401/when_bus_flutter -->
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyc0401)](https://solved.ac/oyc0401)
+
 백준: https://github.com/oyc0401/algorithm
 
 <br>
