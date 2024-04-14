@@ -14,6 +14,8 @@
 
 24년 2월 5일부터 서비스중!
 
+24.04.14 기준 훈련병 1043명 가입, 편지 20728건 전송완료!
+
 [![하늘인편](https://rokafmail.kr/opengraph-image.png?3487d6a8854f790e)](https://rokafmail.kr/)
 
 [하늘인편 바로가기](https://rokafmail.kr/)
