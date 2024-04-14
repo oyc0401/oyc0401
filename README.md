@@ -18,7 +18,11 @@
 
 [![하늘인편](https://rokafmail.kr/opengraph-image.png?3487d6a8854f790e)](https://rokafmail.kr/)
 
-[하늘인편 바로가기](https://rokafmail.kr/)
+[하늘인편 미리보기](https://rokafmail.kr/mail/rokaf)
+
+[가입하기](https://rokafmail.kr/)
+
+
 
 
 ## 💻 Tech Stack
