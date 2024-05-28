@@ -18,7 +18,7 @@
 
 24.05.20 기준 훈련병 1689명 가입, 편지 37354건 전송완료!
 
->  일 평균 조회수: 8900회
+> 일일 평균 PV 8000, 주말 평균 PV: 18000, MAU 2.4만, 월 PV 25만
 
 [![하늘인편](https://rokafmail.kr/opengraph-image.png?3487d6a8854f790e)](https://rokafmail.kr/)
 
