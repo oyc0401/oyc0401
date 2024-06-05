@@ -20,7 +20,7 @@
 
 > 일일 평균 PV 8000, 주말 평균 PV: 18000, MAU 2.4만, 월 PV 25만
 
-[![하늘인편](https://rokafmail.kr/opengraph-image.png?3487d6a8854f790e)](https://rokafmail.kr/)
+[![하늘인편](https://rokafmail.kr/opengraph-image.jpg?8e392ec30cec3ae6)](https://rokafmail.kr/)
 
 [하늘인편 미리보기](https://rokafmail.kr/mail/rokaf)
 
