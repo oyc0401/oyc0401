@@ -24,11 +24,13 @@
 
 > 최대 MAU 2.6만
 
-[![하늘인편](https://rokafmail.kr/opengraph-image.jpg?8e392ec30cec3ae6)](https://rokafmail.kr/)
+<a href="https://rokafmail.kr/">
+  <img src="https://rokafmail.kr/opengraph-image.jpg?8e392ec30cec3ae6" alt="하늘인편" width="300">
+</a>
 
-[하늘인편 미리보기](https://rokafmail.kr/mail/rokaf)
+[편지함 미리보기](https://rokafmail.kr/mail/rokaf)
 
-[가입하기](https://rokafmail.kr/)
+[https://rokafmail.kr](https://rokafmail.kr/)
 
 
 
