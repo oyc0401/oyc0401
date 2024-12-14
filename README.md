@@ -67,15 +67,15 @@
 <details>
 <summary><strong> 이전에 사용했던 기술 스택 보기</strong></summary>
 
-#### 23년 1월 ~ 23년 7월
-> 버스언제와, InhaTravel
+#### 23년 1월 ~ 23년 7월 
+> [버스언제와](https://github.com/oyc0401/when_bus), [InhaTravel](https://github.com/oyc0401/internet_programming)
 
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 21년 11월 ~ 23년 7월
-> 북고앱, 인맛, 버스언제와
+> [북고앱](https://github.com/oyc0401/pubuk), [인맛](https://github.com/oyc0401/inmat), [버스언제와](https://github.com/oyc0401/when_bus_flutter)
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter-ko.dev/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
@@ -83,7 +83,7 @@
 	
 
 #### 21년 4월 ~ 21년 9월
-> 북고앱
+> [북고앱](https://github.com/oyc0401/pubuk-1.1)
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/?hl=ko)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
