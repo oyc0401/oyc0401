@@ -2,14 +2,8 @@
 
 ### 군대에서 개발중... ~25.05.13
 
-사지방에서 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) IDE로
-
+사지방에서 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)으로
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 를 합니다
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-%23582d3e.svg?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-도 씁니다
 
 요즘엔 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) 을 쓰고있어요
 
@@ -60,27 +54,26 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <details>
-<summary><strong> 이전에 사용했던 기술 스택 보기</strong></summary>
+<summary><strong> 이전에 사용했던 기술 스택</strong></summary>
 
 #### 23년 1월 ~ 23년 7월 
-> [버스언제와](https://github.com/oyc0401/when_bus), [InhaTravel](https://github.com/oyc0401/internet_programming)
+> [버스언제와](https://github.com/oyc0401/when_bus) [InhaTravel](https://github.com/oyc0401/internet_programming)
 
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 21년 11월 ~ 23년 7월
-> [북고앱](https://github.com/oyc0401/pubuk), [인맛](https://github.com/oyc0401/inmat), [버스언제와](https://github.com/oyc0401/when_bus_flutter)
+> [북고앱](https://github.com/oyc0401/pubuk) [인맛](https://github.com/oyc0401/inmat) [버스언제와](https://github.com/oyc0401/when_bus_flutter)
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter-ko.dev/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 ![Provider](https://img.shields.io/badge/Provider-%232671E5.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-	
 
 #### 21년 4월 ~ 21년 9월
 > [북고앱](https://github.com/oyc0401/pubuk-1.1)
@@ -127,5 +120,4 @@
 
 
 --->
-
 
