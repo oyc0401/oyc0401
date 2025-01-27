@@ -3,9 +3,9 @@
 ### 군대에서 개발중... ~25.05.13
 
 사지방에서 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)으로
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 를 합니다
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) 를 합니다
 
-요즘엔 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) 을 쓰고있어요
+요즘엔 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) 을 쓰고있어요
 
 
 ## 군대에서 인편사이트 만들었어요
