@@ -34,6 +34,7 @@
 >
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![WebGL2](https://img.shields.io/badge/WebGL2-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![glsl](https://img.shields.io/badge/glsl-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
