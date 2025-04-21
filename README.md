@@ -35,8 +35,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![WebGL2](https://img.shields.io/badge/WebGL2-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![glsl](https://img.shields.io/badge/glsl-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![mobX](https://img.shields.io/badge/mobX-FF9955?logo=mobx&logoColor=white&style=for-the-badge)
+
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -61,8 +63,9 @@
 <details>
 <summary><strong> 이전에 사용했던 기술 스택</strong></summary>
 
-> Paint Online 초기버전
->
+#### 24년 11월 ~ 25년 1월 
+> [Paint Online 초기버전](https://github.com/oyc0401/PaintOnline)
+
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
