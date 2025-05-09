@@ -1,14 +1,20 @@
 # 안녕하세요! 오유찬 입니다.
 
-### 군대에서 개발중... ~25.05.13
 
-사지방에서 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)으로
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 를 합니다
+### 이미지 편집툴 개발 중...
+![WebGL2](https://img.shields.io/badge/WebGL2-990000?logo=webgl&logoColor=white&style=for-the-badge) 과 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 로
 
-요즘엔 ![WebGL2](https://img.shields.io/badge/WebGL2-990000?logo=webgl&logoColor=white&style=for-the-badge) 를 쓰고있어요
+그림판, 포토샵과 같은 편집툴을 만들고 있어요
+
+beta: [https://paintonline365.com](https://paintonline365.com)
 
 
-## 군대에서 인편사이트 만들었어요
+## 군대에서 [인편사이트](https://rokafmail.kr) 만들었어요
+<a href="https://rokafmail.kr/mail/rokaf">
+  <img src="https://rokafmail.kr/opengraph-image.jpg?8e392ec30cec3ae6" alt="하늘인편 미리보기" width="300">
+</a>
+
+하늘인편: [https://rokafmail.kr](https://rokafmail.kr/)
 
 24년 2월 5일부터 서비스 하고있어요
 
@@ -18,14 +24,9 @@
 
 > 최대 MAU 2.6만
 
-<a href="https://rokafmail.kr/">
-  <img src="https://rokafmail.kr/opengraph-image.jpg?8e392ec30cec3ae6" alt="하늘인편" width="300">
-</a>
+
 
 [편지함 미리보기](https://rokafmail.kr/mail/rokaf)
-
-[https://rokafmail.kr](https://rokafmail.kr/)
-
 
 
 ## 💻 Tech Stack
@@ -59,7 +60,7 @@
 
 
 <details>
-<summary><strong> 이전에 사용했던 기술 스택</strong></summary>
+<summary><strong>이전에 사용했던 기술 스택 열기</strong></summary>
 
 #### 24년 11월 ~ 25년 1월 
 > [Paint Online 초기버전](https://github.com/oyc0401/PaintOnline)
@@ -92,12 +93,18 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 </details>
+👆
+
+<br/>
 
 ---------
 
-### 코딩 테스트 & 알고리즘
-	
+### PS
+
+> 2023 IUPC 동상
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyc0401)](https://solved.ac/oyc0401)
+
 
 ---------
 
