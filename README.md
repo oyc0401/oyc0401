@@ -8,6 +8,8 @@
 
 beta: [https://paintonline365.com](https://paintonline365.com)
 
+### 토스에 게임 출시해봤어요~
+https://minion.toss.im/DsVDGGrt
 
 ## 군대에서 [인편사이트](https://rokafmail.kr) 만들었어요
 <a href="https://rokafmail.kr/mail/rokaf">
