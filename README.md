@@ -1,15 +1,14 @@
 # 안녕하세요! 오유찬 입니다.
 
 
-### 이미지 편집툴 개발 중...
+### 이미지 편집툴 개발 중!
 ![WebGL2](https://img.shields.io/badge/WebGL2-990000?logo=webgl&logoColor=white&style=for-the-badge) 과 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 로
 
 그림판, 포토샵과 같은 편집툴을 만들고 있어요
 
-beta: [https://paintonline365.com](https://paintonline365.com)
+[https://painton.app](https://painton.app)
 
-**토스에 게임도 출시했어요~**
-https://minion.toss.im/DsVDGGrt
+
 
 ## 군대에서 [인편사이트](https://rokafmail.kr) 만들었어요
 <a href="https://rokafmail.kr/mail/rokaf">
@@ -30,6 +29,9 @@ https://minion.toss.im/DsVDGGrt
 
 [편지함 미리보기](https://rokafmail.kr/mail/rokaf)
 
+
+**토스에 게임도 출시했어요~**
+https://minion.toss.im/DsVDGGrt
 
 ## 💻 Tech Stack
 
