@@ -1,5 +1,6 @@
 # 안녕하세요! 오유찬 입니다.
 
+블로그 >> https://velog.io/@oyc0401
 
 ### 이미지 편집툴 개발 중!
 ![WebGL2](https://img.shields.io/badge/WebGL2-990000?logo=webgl&logoColor=white&style=for-the-badge) 과 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 로
